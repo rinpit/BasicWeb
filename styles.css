@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: orange;
+}
+
+h1{
+    text-align: center;
+    padding: 20px 0;
+}
+
+#form{
+    width: 400px;
+    background-color: #fff;
+    box-shadow: 0 0 12px rgba(0,0,0, 0.5);
+    margin: 0 auto;
+}
+
+.content{
+    padding: 24px 20px;
+}
+
+.content1{
+    padding: 8px 0;
+}
+
+.content1 input,select{
+    margin-top: 6px;
+    width: 250px;
+    padding: 4px;
+}
+
+.checkbox{
+    padding-top: 12px;
+}
+
+#button{
+    text-align: center;
+    background-color: orangered;
+}
+
+#button a{
+    background-color: orangered;
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
